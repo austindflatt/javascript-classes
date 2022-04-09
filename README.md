@@ -1,1 +1,1 @@
-# javascript-classes
+# JavScript Classes Assignment
